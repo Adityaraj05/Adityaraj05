@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/adityarajavi05" target="blank"><img src="https://img.shields.io/twitter/follow/adityarajavi05?logo=twitter&style=for-the-badge" alt="adityarajavi05" /></a> </p>
 
-- 🌱 I’m currently learning **dsa with java and Inte Artifical intelligence with Machine learning.**
+- 🌱 I’m currently learning **"I am currently engaged in a comprehensive learning journey encompassing the foundations of Data Structures and Algorithms, harnessing the power of Java, and delving into the captivating realms of Artificial Intelligence and Machine Learning."**
 
 - 🤝 I’m looking for help with [dsa with java community](https://leetcode.com/Adityarajavi/)
 
